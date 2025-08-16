@@ -1,4 +1,4 @@
-local mp = require 'mp'
+﻿local mp = require 'mp'
 local utils = require 'mp.utils'
 
 mp.register_event("file-loaded", function()
